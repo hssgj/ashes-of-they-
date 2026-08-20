@@ -1,0 +1,42 @@
+# AOT Canon Index v0.1 — Recovered
+
+This index records the strongest currently recovered anchors. It is intentionally small. It does not attempt to reconstruct the entire archive.
+
+## Book II active chain
+
+### Glass Dunes
+- `Ashes_of_Thay_Book_II_Glass_Dunes_Under_Access_Module.docx`
+- Recovered purpose: continuity dungeon leading from Surag / Thaylambar outskirts into the buried Glass Dunes under-access.
+- Important boundary: the name **Anaxaster** is withheld until the final prison reveal in the source module.
+
+### Chain Arena v1.0
+- `Ashes_of_Thay_Book_II_Chain_Arena_Complete_Module_v1_0.docx`
+- Canon position: after Lower Rootglass Bridge / Maintenance Spine and before Prison Core.
+- Supersedes the original generic Anti-Seal Guardian Arena / five-success skill challenge.
+- Hard locks recovered: no physical Barten, no Anaxaster name, no true storm inside the Arena.
+- Next queue: Prison Core → Controlled Catastrophe Engine → Stormwake & Wrong Gate.
+
+### Controlled Catastrophe Engine v1.0
+- `Ashes_of_Thay_Book_II_Controlled_Catastrophe_Engine_v1_0.pdf`
+- Supersedes the original automatic overload + generic five-success escape challenge.
+- Does not supersede Glass Dunes v2 Canon Lock or Chain Arena v1.0.
+
+### Stormwake & Wrong Gate v1.0
+- `Ashes_of_Thay_Book_II_Stormwake_and_Wrong_Gate_v1_0.docx`
+- Canon position: after Controlled Catastrophe escape and before Temple of Kossuth opening.
+- Supersedes the vague storm/warp-gate bridge.
+- Does not supersede Glass Dunes v2 Canon Lock, Chain Arena, Controlled Catastrophe Engine, or future Temple of Kossuth module.
+
+## Book I recovered anchors
+
+- `Ashes_of_Thay_Book_I_Final_Manuscript_Assembly_v0_1.docx` is explicitly a working assembly, not a polished final proof.
+- Its DM spoiler material contains long-arc reveal locks and should not be treated as player-facing text.
+
+## Crew anchor
+
+- `crew ledger.docx` records the core Crew relationship concept and the roles represented by Matthael, Barten, Eryn, Norbyn, Mira, Naevyra, and Ti.
+- Individual character sheets/modules remain separate sources of current mechanical state.
+
+## Important
+
+This file is an index, not a replacement for the source modules. If a newer explicit version lock exists, use the newer locked source and update this index rather than guessing.
