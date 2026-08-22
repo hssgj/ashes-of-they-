@@ -20,7 +20,6 @@ Source: forensic extraction + explicit user corrections in chat
 - [UNKNOWN] The exact meaning of the name Crownbreaker.
 - [SPECULATIVE] Crownbreaker may be a microscopic foreshadowing of a future meaning.
 - [FUTURE_CANON] The meaning of Crownbreaker is deliberately reserved for future revelation.
-- [CONFLICT] An earlier source used Groundbreaker; the newer source explicitly replaces it with Crownbreaker.
 
 ## Q32 — Matthael & Crew
 
