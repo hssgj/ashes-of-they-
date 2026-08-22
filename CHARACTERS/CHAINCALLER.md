@@ -27,8 +27,3 @@
 - Matthael can damage Chaincaller's manifestation.
 - Chaincaller can defeat Matthael without killing him.
 - Chaincaller has an interest in Matthael remaining alive.
-
-## Future / DM Layer
-
-- Ixrathul is not simply a stronger Chaincaller.
-- Ixrathul is the deeper hunger behind the chain and uses Chaincaller as host/interpreter.
