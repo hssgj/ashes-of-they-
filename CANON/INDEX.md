@@ -9,6 +9,12 @@ This index records the strongest currently recovered anchors. It is intentionall
 - Recovered purpose: continuity dungeon leading from Surag / Thaylambar outskirts into the buried Glass Dunes under-access.
 - Important boundary: the name **Anaxaster** is withheld until the final prison reveal in the source module.
 
+### Glassdunes Retold — Replay Script
+- `CANON/GLASSDUNES_RETOLD_REPLAY_SCRIPT.md`
+- Status: canon reconstruction / replay authority for the Glassdunes dungeon.
+- Preserves fixed surviving anchors, reveals, consequences, creatures, mechanics, recoverable declarations, and hard checkpoint ordering while allowing Matthael's exact between-anchor actions to be replayed.
+- Hard locks include: Froghemoth dies; Caern remains a reluctant trapped ally; Barten is echo/alignment only; no premature Anaxaster release or true storm; controlled catastrophe follows the release; Frostfire Chimney leads to the Thaylambar surface and black geyser aftermath.
+
 ### Chain Arena v1.0
 - `Ashes_of_Thay_Book_II_Chain_Arena_Complete_Module_v1_0.docx`
 - Canon position: after Lower Rootglass Bridge / Maintenance Spine and before Prison Core.
