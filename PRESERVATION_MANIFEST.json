@@ -349,7 +349,9 @@
       "text_sha256": "5d578e0bc808a80749ac5a092f637264770ec1de998a2b17f8fa9d69287ae43b",
       "complete_available_extraction": true,
       "disposition": "DM RUN SHEET SOURCE. Starting values are module defaults; current scene remains earlier.",
-      "binary_preserved": false
+      "binary_preserved": true,
+      "binary_path": "ARCHIVE/SOURCE_DOCUMENTS/Chain_Arena_DM_Run_Sheet.pdf",
+      "original_binary_sha256": "fb056f4f7c2f61eca0ab061a0ced277a39909409a8d1db560f7938d7322f5ff7"
     },
     {
       "key": "aot-chain-tracker",
@@ -361,7 +363,9 @@
       "text_sha256": "12897d697709142afdcf3002555763cae5de9eea6ac9448c56bcb31196ee2572",
       "complete_available_extraction": true,
       "disposition": "BLANK BATTLEFIELD / TRACKER SOURCE. Text extraction cannot preserve every map relationship; consult preserved original PDF for topology.",
-      "binary_preserved": false
+      "binary_preserved": true,
+      "binary_path": "ARCHIVE/SOURCE_DOCUMENTS/Chain_Arena_Battlefield_Tracker_Sheet.pdf",
+      "original_binary_sha256": "561e9fa13399f15374189b7b0e31882dd27167326dfe89af60bad7fc521920f4"
     },
     {
       "key": "aot-ce-run-sheet",
@@ -373,7 +377,9 @@
       "text_sha256": "5af35e6f873b798f4a18655583705acdfd2dd4d4d826e4e0d5ef54600dbb6604",
       "complete_available_extraction": true,
       "disposition": "DM RUN SHEET SOURCE. Starting values derive from actual preceding encounter inputs, not from this import.",
-      "binary_preserved": false
+      "binary_preserved": true,
+      "binary_path": "ARCHIVE/SOURCE_DOCUMENTS/Catastrophe_Engine_DM_Run_Sheet.pdf",
+      "original_binary_sha256": "6c8cd3e685375fb512420a47860b4986362c6278eb0cc7d5a2103d16342a59a5"
     },
     {
       "key": "aot-ce-tracker",
@@ -385,7 +391,9 @@
       "text_sha256": "baa9455261efa90c1da3996d5a0caf4898d321fbc4d6451d56a60059d55a6a5f",
       "complete_available_extraction": true,
       "disposition": "BLANK TRACKER SOURCE. Blank fields remain blank; consult preserved original PDF for layout.",
-      "binary_preserved": false
+      "binary_preserved": true,
+      "binary_path": "ARCHIVE/SOURCE_DOCUMENTS/Catastrophe_Engine_Tracker_Sheet.pdf",
+      "original_binary_sha256": "e9a4aee089bd45b810085835b4e1bb81cd400d9795228cfea2e2f25311a5fa45"
     },
     {
       "key": "aot-storm-run-sheet",
@@ -397,7 +405,9 @@
       "text_sha256": "00171650f31fd47e29d1ee10846214ca88df7f6625af8118319ef587cbdf3a53",
       "complete_available_extraction": true,
       "disposition": "DM RUN SHEET SOURCE. Future module, not current scene.",
-      "binary_preserved": false
+      "binary_preserved": true,
+      "binary_path": "ARCHIVE/SOURCE_DOCUMENTS/Stormwake_DM_Run_Sheet.pdf",
+      "original_binary_sha256": "bc0cfddcd84f5a315979db351b338d3fb38492fe485039a7a876b2a05607bcfc"
     },
     {
       "key": "aot-storm-tracker",
@@ -409,7 +419,9 @@
       "text_sha256": "d526c4ec00ff6afc382e14d96538d30eae4caece39660c72f0e9c090796be9a4",
       "complete_available_extraction": true,
       "disposition": "BLANK BATTLEFIELD / TRACKER SOURCE. Consult preserved original PDF for topology.",
-      "binary_preserved": false
+      "binary_preserved": true,
+      "binary_path": "ARCHIVE/SOURCE_DOCUMENTS/Stormwake_Battlefield_Tracker.pdf",
+      "original_binary_sha256": "ad01ea552110be6d7cc3c7f81ca4cde9618dad215a9ec1781ffbe382534d173c"
     }
   ],
   "conversation_archive_complete": false,
