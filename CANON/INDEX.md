@@ -46,3 +46,17 @@ This index records the strongest currently recovered anchors. It is intentionall
 ## Important
 
 This file is an index, not a replacement for the source modules. If a newer explicit version lock exists, use the newer locked source and update this index rather than guessing.
+
+## Repository source recovery — 2026-10-07
+
+The previously named external source modules are now preserved as complete available text in this repository. Full source inventory: [SOURCE_INDEX](../SOURCE_INDEX.md). The original print trackers are retained as PDFs under `ARCHIVE/SOURCE_DOCUMENTS/`.
+
+| Source authority / module | Repository path | Boundary |
+|---|---|---|
+| Glass Dunes v2 Canon Lock | [CANON/GLASS_DUNES_V2_CANON_LOCK.md](GLASS_DUNES_V2_CANON_LOCK.md) | Explicit lock; controls older Under-Access assumptions |
+| Glass Dunes baseline | [MODULES/BOOK_II/GLASS_DUNES_UNDER_ACCESS.md](../MODULES/BOOK_II/GLASS_DUNES_UNDER_ACCESS.md) | Source baseline; apply lock/replacement engines |
+| Chain Arena v1.0 | [MODULES/BOOK_II/CHAIN_ARENA_V1_0.md](../MODULES/BOOK_II/CHAIN_ARENA_V1_0.md) | Future encounter at this checkpoint |
+| Controlled Catastrophe v1.0 | [SYSTEMS/BOOK_II/CONTROLLED_CATASTROPHE_ENGINE_V1_0.md](../SYSTEMS/BOOK_II/CONTROLLED_CATASTROPHE_ENGINE_V1_0.md) | Future engine; release remains unplayed |
+| Stormwake & Wrong Gate v1.0 | [MODULES/BOOK_II/STORMWAKE_WRONG_GATE_V1_0.md](../MODULES/BOOK_II/STORMWAKE_WRONG_GATE_V1_0.md) | Future module; Wrong Arrival remains unplayed |
+
+Existing replay script and current live-save locks remain in effect. This preservation pass does not advance the campaign.

@@ -41,4 +41,8 @@ Harvest preserves raw evidence. Research tests or compares evidence. Forge devel
 
 ## Recovery status
 
-This repository is being reconstructed from the existing Ashes of Thay project history. Original local source files are temporarily inaccessible, so recovered material is entered only when supported by existing project records or recovered source material.
+This repository is being reconstructed from the existing Ashes of Thay project history. Previously inaccessible functional source documents were recovered on 2026-10-07. Complete available module/character/engine text is now indexed in `SOURCE_INDEX.md`; original print aids are preserved under `ARCHIVE/SOURCE_DOCUMENTS/`. This does not imply a complete conversation/literary archive.
+
+## Continue / source recovery
+
+Start with [RESUME.md](RESUME.md). Current checkpoint: Rootglass Kennel after Froghemoth. [SOURCE_INDEX.md](SOURCE_INDEX.md) lists preserved functional material and its boundaries.

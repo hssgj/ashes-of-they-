@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "updated": "2026-10-07",
+  "status": "RECOVERED_CHECKPOINT_MECHANICAL_RESOURCES_UNKNOWN",
+  "source_of_truth": "CHECKPOINT/LIVE_GAME_SAVE.md",
+  "continuity_lock": "CANON/GLASS_DUNES_V2_CANON_LOCK.md",
+  "position": {
+    "location": "Rootglass Kennel",
+    "beat": "Immediately after Rootglass-Collared Froghemoth killed",
+    "next": "Froghemoth aftermath"
+  },
+  "played": [
+    "Under-Access Descent",
+    "Upper Control Room: ROOT / RELAY / GLASS solved",
+    "Ti activated SEAL prematurely: containment-network registration, not final prison opening",
+    "Relay / Maintenance Branch",
+    "Rootglass Galleries",
+    "Echo Garden / Ivy Keeper: Eryn Deepgreen Witness",
+    "Caern and Nessie red-leash entry",
+    "Rootglass Kennel: Froghemoth defeated"
+  ],
+  "locked_non_events": [
+    "physical Barten reunion/rescue/companion/ghost/projection",
+    "Anaxaster name revealed in-character",
+    "prison-core decision or release",
+    "true Thaylambar storm",
+    "surface escape",
+    "teleport attempt / Wrong Arrival",
+    "Lower Rootglass Bridge played in final canon"
+  ],
+  "cast": {
+    "Matthael IX-Lambda": "primary player-character reference; prison-reactive Frostfire/Silverstrain; no true storm",
+    "Ti": "active scout/omen; no Anaxaster Echo Seed",
+    "Eryn": "core Crew; Deepgreen Witness interacted with Rootglass",
+    "Mira": "core Crew; relic incomplete",
+    "Norbyn": "core Crew; Grudgebell containment-timing reader",
+    "Naevyra": "core Crew; relic incomplete; radiant suppression relevant",
+    "Caern & Nessie": "guest allies, not locked permanent Crew",
+    "Red Veil": "parallel rival-ally; not permanent Crew; concealed motives"
+  },
+  "mechanical_state": {
+    "hp": null,
+    "ac": null,
+    "spell_slots": null,
+    "sorcery_points": null,
+    "conditions": null,
+    "crew_positions": null,
+    "short_rest_resolution": null,
+    "pylons": null,
+    "warden_scaling": null,
+    "clocks": null
+  },
+  "unknown_value_policy": "null means UNKNOWN, never zero/full/default; build sheets and templates cannot fill current resources",
+  "next_route": [
+    "Froghemoth aftermath",
+    "Lower Rootglass Bridge",
+    "Maintenance Spine / Barten Echo",
+    "Chain Arena",
+    "Prison Core",
+    "Controlled Catastrophe",
+    "Sky Vent / Release",
+    "Escape",
+    "Stormwake",
+    "Warp Ruins / Wrong Gate",
+    "Temple of Kossuth"
+  ],
+  "migration_changed_gameplay": false
+}
